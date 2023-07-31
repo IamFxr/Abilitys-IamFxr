@@ -1,0 +1,11 @@
+name: Abilitys-IamFxr
+main: ShxdowFxr\AShop\Loader
+version: 0.0.1
+api: 5.0.0
+author: IamFxr.lol
+
+
+
+permissions:
+  ability.access:
+    default: true
