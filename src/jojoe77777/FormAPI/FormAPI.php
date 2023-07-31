@@ -11,4 +11,4 @@ class FormAPI extends PluginBase{
         return new SimpleForm($function);
     }
 
-   
+} 
